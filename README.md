@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Real-world implementation of AI solutions.<br>👯 I’m looking to collaborate on Solving Real-world problems with AI.<br>🤝 I’m looking for help with finding a job and related projects.<br>🌱 I’m currently learning AI and mobile development.<br>💬 Ask me if I can contribute to anything for a better world<br>⚡ Fun fact I love helping you.
+🔭 I’m currently focused on implementing AI solutions in real-world applications.<br> 👯 I’m eager to collaborate on projects that solve practical problems using AI.<br> 🤝 I’m open to opportunities for new job roles and engaging in related projects.<br> 🌱 I’m continually learning and expanding my expertise in AI and mobile development.<br> 💬 Feel free to ask me about how I can contribute to projects aimed at making the world a better place.<br> ⚡ Fun fact: I enjoy leveraging technology to assist and empower others.
 
 
 ## 🌐 Socials:
